@@ -53,7 +53,7 @@ File -> import -> Existing Maven Projects -> (procure a pasta do projeto) -> fin
 Dentro do <strong>Eclipse</strong> procure pela classe <Strong>Main</strong> do projeto</br>
 Path: /forum/src/main/java/br/com/alura/forum/ForumApplication.java
 
-Right click on class -> Run As -> Java Application
+Botão direito na Classe -> Run As -> Java Application
 
 ## Acessando os EndPoints
 
