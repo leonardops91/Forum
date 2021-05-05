@@ -41,7 +41,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## 💻 Rodando
-Para clonar e utilizar esta API, você precisará do [Git](https://git-scm.com) e do [Npm](https://www.npmjs.com/) instalados no seu computador. Utilize a linha de comando:
+Para clonar e utilizar esta API, você precisará do [Git](https://git-scm.com) e do [Eclipse](https://www.eclipse.org/downloads/) instalados no seu computador. Utilize a linha de comando:
 ```bash
 # Clone this repository
 $ git clone https://github.com/leonardops91/Forum
